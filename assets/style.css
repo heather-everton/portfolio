@@ -245,6 +245,9 @@ article:nth-child(1) {
     background-image: url(./images/SpaceTime.JPG);
 }
 
+.project- {
+    background-image: url(./images/dashboard.png);
+}
 
 .project-img::after {
     content: "";
